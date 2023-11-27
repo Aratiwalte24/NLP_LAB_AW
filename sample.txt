@@ -1,0 +1,2 @@
+C# was designed as part of the Microsoft .NET platform, aiming to provide a versatile and powerful language for building Windows applications.
+It is now used for a wide range of applications, including web development, desktop software, mobile apps (via Xamarin), cloud services, and more.C# syntax is similar to other C-style languages such as C++ and Java, making it relatively easy for programmers familiar with those languages to transition to C#.
